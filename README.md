@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/QNkFq4NF/From-Klick-Pin-CF-fbc6f31bd3b84159470b973aca7e0f97gif-(1920-1080)-anime-pikuseruato-pikuseruato-dotto-hui-Pin-31.gif" width="750px" height="350px"/>
+  <img src="https://i.postimg.cc/QNkFq4NF/From-Klick-Pin-CF-fbc6f31bd3b84159470b973aca7e0f97gif-(1920-1080)-anime-pikuseruato-pikuseruato-dotto-hui-Pin-31.gif" width="650px" height="250px"/>
 </p>
 
 ---
