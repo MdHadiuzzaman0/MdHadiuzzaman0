@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
   <img src="https://i.postimg.cc/QNkFq4NF/From-Klick-Pin-CF-fbc6f31bd3b84159470b973aca7e0f97gif-(1920-1080)-anime-pikuseruato-pikuseruato-dotto-hui-Pin-31.gif" width="650px" height="280px"/>
 </p>
@@ -9,7 +6,7 @@
 
 <div align="center">
 
-<img width="388" height="115" alt="image" src="https://github.com/user-attachments/assets/ebabd016-abad-4170-b5f9-0833bd63a732" />
+<img width="388px" height="95px" alt="image" src="https://github.com/user-attachments/assets/ebabd016-abad-4170-b5f9-0833bd63a732" />
 
 </div>
 
@@ -31,7 +28,7 @@
 ---
 
 ### 🌐 Socials:  
- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hadiuzzaman.ridoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mdhadiuzzaman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdhadiuzzaman483@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hadiuzzaman.ridoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhadiuzzaman/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdhadiuzzaman483@gmail.com) 
 
 --- 
 
