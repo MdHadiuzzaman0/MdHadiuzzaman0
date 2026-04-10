@@ -1,12 +1,11 @@
-<p align="center">
-  <img src="https://i.postimg.cc/QNkFq4NF/From-Klick-Pin-CF-fbc6f31bd3b84159470b973aca7e0f97gif-(1920-1080)-anime-pikuseruato-pikuseruato-dotto-hui-Pin-31.gif" width="650px" height="280px"/>
-</p>
-
----
+<!-- <div align="center">
+  <span style="font-size: 42px; font-weight: bold;">Md. Hadiuzzaman</span><br>
+  <span style="font-size: 18px;">Passionate Frontend Developer</span>
+</div> -->
 
 <div align="center">
 
-<img width="388px" height="95px" alt="image" src="https://github.com/user-attachments/assets/ebabd016-abad-4170-b5f9-0833bd63a732" />
+<img width="310px" height="95px" alt="image" color="red" src="https://github.com/user-attachments/assets/ebabd016-abad-4170-b5f9-0833bd63a732" />
 
 </div>
 
@@ -23,12 +22,40 @@
 - I’m currently learning **Next.js, Express.js, mongoBD and Firebase** to transition from a **Frontend Developer** to a **Full-Stack Developer**.
 - I’m looking to collaborate on **Open-source Frontend Projects**.
 
-
-
 ---
 
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr style="border: none;">
+    <td width="16%" valign="center" style="border: none;">
+      <h3>🌐 Socials:</h3>
+      <a href="https://www.facebook.com/hadiuzzaman.ridoy"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/mdhadiuzzaman/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+      <a href="mailto:mdhadiuzzaman483@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+    </td>
+    <td width="50%" align="right" valign="middle" style="border: none;">
+      <img src="https://i.postimg.cc/QNkFq4NF/From-Klick-Pin-CF-fbc6f31bd3b84159470b973aca7e0f97gif-(1920-1080)-anime-pikuseruato-pikuseruato-dotto-hui-Pin-31.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<!-- <div align="center">
+  <img align="right" src="https://i.postimg.cc/QNkFq4NF/From-Klick-Pin-CF-fbc6f31bd3b84159470b973aca7e0f97gif-(1920-1080)-anime-pikuseruato-pikuseruato-dotto-hui-Pin-31.gif" width="450" alt="Coding GIF" />
+
+  <div align="left"  margin-top="100px">
+    <h3>🌐 Socials:</h3>
+    <a href="https://www.facebook.com/hadiuzzaman.ridoy"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/mdhadiuzzaman/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:mdhadiuzzaman483@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  </div>
+</div>
+
+<br clear="right" /> -->
+
+
+<!-- ---
+
 ### 🌐 Socials:  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hadiuzzaman.ridoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhadiuzzaman/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdhadiuzzaman483@gmail.com) 
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hadiuzzaman.ridoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhadiuzzaman/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdhadiuzzaman483@gmail.com)  -->
 
 --- 
 
