@@ -1,8 +1,14 @@
+
+
+---
+<img width="1589" height="500" alt="Animation2-ezgif com-cut" src="https://github.com/user-attachments/assets/9f33e46c-e428-44f7-b444-5e5dfb54cba1" />
+
+
 <div style="background-color: #0f172a; color: #e2e8f0; border-radius: 12px; font-family: sans-serif;">
 
 <div align="center">
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1500&pause=60&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Md.+Hadiuzzaman+👋;Passionate+Frontend+Developer;MERN+Stack+Learner+🚀)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1500&pause=60&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Md.+Hadiuzzaman+👋;Passionate+Frontend+Developer;MERN+Stack+Learner+🚀)](https://git.io/typing-svg)
 
 
 
@@ -12,29 +18,32 @@
 
 ## 👨‍💻  About Me
 
-Passionate Frontend Developer focused on crafting  **scalable,high-performance and user-centric web applications.** My work is defined by a commitment to *clean, maintainable code and building seamless user experiences.* I approach software development with a logical mindset, prioritizing **efficient component architecture and state management.** I am now actively expanding my expertise into the MERN stack to bridge the gap between clean frontend interfaces and powerful backend technologies, for delivering **end-to-end full-stack solutions.**
+I love building web applications that are **fast, easy to use and solve** real problems. My journey started with creating clean and organized **Frontend layouts**, focusing on how users interact with every button and page.
 
-### **Technical Expertise**
-* **Frontend Development:** React.js, Next.js, JavaScript (ES6+), Tailwind CSS, DaisyUI.
-* **Backend & Database:** Express.js, MongoDB, Firebase.
-* **Tools & Workflow:** Git, GitHub, REST APIs, JSON data integration, State Management.
+Now, I am growing into a **Full-Stack Developer** by learning how to build secure *backends and manage databases*. I care a lot about making code run smoothly—whether it's making a website load faster or organizing data in a way that makes sense. For me, coding is about finding the perfect balance between smart logic and a great user experience.
 
-### **Current Focus & Goals**
-* **Development:** *Transitioning to full-stack development* by mastering Express.js, MongoDB, and Firebase integration.
-* **Collaboration:** Actively looking for opportunities to collaborate on **frontend-focused open-source projects** to refine code quality and modularity.
-* **Problem Solving:** Applying structured logic to **optimize web performance** and ensure state consistency across complex applications.
+### **🛠️ Technical Expertise**
+* **Frontend Development:** React.js, Next.js, JavaScript (ES6+), Tailwind CSS, DaisyUI, HeroUI
+* **Backend & Database:** Express.js, MongoDB, Better-Auth.
+* **Tools & Workflow:** GitHub, Vercel, REST APIs, JSON data integration.
 
-### **Contact**
-* **Email:** mdhadiuzzaman483@gmail.com
+### **🎯 What I Offer & Current Focus :**
+* **Full-Stack Capability:** Building secure, end-to-end applications with robust authentication and efficient database designs.
+* **Modern Performance:** Delivering fast interfaces using Next.js & React 19 with optimized server-side patterns.
+* **Scalable UI/UX:** Crafting modular, maintainable components that ensure a seamless and consistent user experience.
+* **Logic-Driven Solutions:** Solving complex problems by implementing structured state management and clean code architecture.
+
+### **📫 Contact :**
+* **📍 Location:** Chattogram, Bangladesh <br/>
+* **📧 Email:** mdhadiuzzaman483@gmail.com
 
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhadiuzzaman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhadiuzzaman)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hadiuzzaman.ridoy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhadiuzzaman483@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MdHadiuzzaman0)
 
 <img src="https://i.postimg.cc/QNkFq4NF/From-Klick-Pin-CF-fbc6f31bd3b84159470b973aca7e0f97gif-(1920-1080)-anime-pikuseruato-pikuseruato-dotto-hui-Pin-31.gif" width="100%" height="600px"/>
@@ -55,6 +64,7 @@ Passionate Frontend Developer focused on crafting  **scalable,high-performance a
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white)
 
 **React Ecosystem**
 
@@ -62,13 +72,13 @@ Passionate Frontend Developer focused on crafting  **scalable,high-performance a
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Currently Learning**
+**Backend & Database**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Better-Auth](https://img.shields.io/badge/Better--Auth-FFAC00?style=for-the-badge&logo=auth0&logoColor=black)
+
 
 **Tools & Platforms**
 
@@ -86,7 +96,7 @@ Passionate Frontend Developer focused on crafting  **scalable,high-performance a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MdHadiuzzaman0&show_icons=true&theme=tokyonight&border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MdHadiuzzaman0&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&cache_seconds=1800" height="170"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=MdHadiuzzaman0&theme=tokyonight&border=true" height="170"/>
 
